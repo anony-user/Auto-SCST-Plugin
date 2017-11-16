@@ -22,9 +22,9 @@ fop/src/
 
 sunflow/src/
 
-All the applications are open-source and can be freely accessed on github or sourceforge.
+All the applications are open-source and can be freely accessed on GitHub or SourceForge.
 
-The source code of each of these tools has been included in this repository for the ease of access.
+The source code of each of these applications has been included in this repository for the ease of access.
 
 
 
